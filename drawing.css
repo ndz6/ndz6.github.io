@@ -1,0 +1,13 @@
+body{
+    background-color: #c9bbff;
+    
+}
+
+iframe{
+    width: 800px;
+    height: 800px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 100px;
+   
+}
