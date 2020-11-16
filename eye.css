@@ -1,0 +1,63 @@
+
+.square {
+    float:left;
+    position: relative;
+    width: 30%;
+    padding-bottom : 30%; 
+    margin:1.66%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.img_1-1{background-image:url("eye1.jpg");}
+.img_1-2{background-image:url("eye2.jpg");}
+.img_1-3{background-image:url("eye3.jpg");}
+
+.img_2-1{background-image:url("eye4.jpg");}
+.img_2-2{background-image:url(eye5.jpg);}
+.img_2-3{background-image:url("eye6.jpg");}
+
+.img_3-1{background-image:url(eye7.jpg);}
+.img_3-2{background-image:url(eye8.jpg);}
+.img_3-3{background-image:url(eye9.jpg);}
+
+.img_4-1{background-image:url(eye10.jpg);}
+.img_4-2{background-image:url(eye11.jpg);}
+.img_4-3{background-image:url(eye12.jpg);}
+
+.img_5-1{background-image:url(eye13.jpg);}
+.img_5-2{background-image:url(eye14.jpg);}
+.img_5-3{background-image:url(eye15.jpg);}
+
+.img_6-1{background-image:url(eye16.jpg);}
+.img_6-2{background-image:url(eye17.jpg);}
+.img_6-3{background-image:url("eye18.jpg");}
+
+.img_7-1{background-image:url(eye19.jpg);}
+.img_7-2{background-image:url(eye20.jpg);}
+.img_7-3{background-image:url(eye21.jpg);}
+
+
+body {
+    font-size:40px;
+    font-family: hydrophilia-iced, sans-serif;
+font-style: normal;
+font-weight: 400;
+    color: black;
+    text-align:center;
+    background:#ffc0fc;
+    background-image: url("FISHNETBACK2.png");
+   
+    }
+
+a {
+    color: black;
+    text-decoration:overline;
+    text-decoration-color: fuchsia;
+}
+
+li {
+   list-style-type:none;
+   }
+
